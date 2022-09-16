@@ -122,7 +122,7 @@
   margin: 0 auto;
 }
 .carusel {
-  background-color: #F5F5F5;
+  background-color: #F1F1F1;
 }
 .carusel-inner {
   padding: 69px 0 100px 0;
@@ -133,8 +133,7 @@
 .item {
   max-width: 378px;
   padding: 35px;
-  background: $main-white;
-  box-shadow: 0px 4px 94px #0000000d;
+  background-color: $main-white;
   border-radius: 20px;
   
 }
@@ -207,9 +206,6 @@
 }
 .margns {
   margin-left: 80px;
-}
-.owl-dots {
-  display: none;
 }
 .owl-nav {
   position: absolute;
@@ -568,4 +564,4 @@ margin-bottom: 48px;
 .info-content-texts {
 font-size: 13px;
 }
-}
+} 

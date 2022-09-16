@@ -2,6 +2,7 @@
 var owl = $('.owl-carousel');
 owl.owlCarousel({
   margin: 32,
+  dots: false,
   loop: true,
   center: false,
   responsiveClass: true,
